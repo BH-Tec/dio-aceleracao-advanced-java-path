@@ -2,6 +2,10 @@
   Aceleração Internacional para Profissionais de Tecnologia - Advanced Java Path
 </h1>
 
+<p align="center">
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/e849a67b-ec70-44e6-a66b-2828ec6807d6"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/e849a67b-ec70-44e6-a66b-2828ec6807d6.svg" alt="wakatime"></a>
+</p>
+
 <h2 align="center">
   <img src="./assets/advanced-java-path.webp" width="250px">
 </h2>
@@ -20,7 +24,9 @@ Repositório criado para os desafios de códigos da "Aceleração Internacional 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Java
+<p align="center">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+</p>
 
 ## 📝 License
 
@@ -34,6 +40,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Lista dos Desafios
 
--  [veja aqui](./desafio1/.java)
--  [veja aqui](./desafio2/.java)
--  [veja aqui](./desafio3/.java)
+- Leap Year? [veja aqui](./desafio1/LeapYear.java)
+- Difference Between Digits [veja aqui](./desafio2/DifferenceBetweenDigits.java)
