@@ -36,9 +36,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Questionário
 
-- Questionário [veja aqui](./questions/questions.md)
+- Questionário [veja aqui](./questions/)
 
 ## 📚 Lista dos Desafios
 
 - Leap Year? [veja aqui](./desafio1/LeapYear.java)
 - Difference Between Digits [veja aqui](./desafio2/DifferenceBetweenDigits.java)
+- Exceeding V [veja aqui](./desafio3/ExceedingV.java)
